@@ -1,0 +1,2 @@
+# zafiyet
+yok
